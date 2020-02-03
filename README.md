@@ -1,4 +1,4 @@
-# BulkMail WebSite Design
+# BulkMail WebSite Template
 
 ```ruby
 
